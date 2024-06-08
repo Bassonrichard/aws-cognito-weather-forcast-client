@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AWSCognitoWeatherForcastClient", "AWSCognitoWeatherForcastClient\AWSCognitoWeatherForcastClient.csproj", "{4D11F553-E229-4C59-8CBA-746324E5F980}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D11F553-E229-4C59-8CBA-746324E5F980}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D11F553-E229-4C59-8CBA-746324E5F980}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D11F553-E229-4C59-8CBA-746324E5F980}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D11F553-E229-4C59-8CBA-746324E5F980}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5146916-C3AB-4202-AA23-2880F1AD9B8D}
+	EndGlobalSection
+EndGlobal
